@@ -1,9 +1,9 @@
 Using the excel spreadsheet “Data.xlsx”, create a series of Pivot Tables (or Pivot Charts)
 to answer the following questions.
-• What are the averages for purchases in each region?
-• What form of payment is most common?
+• What are the averages for purchases in each region? - Answer in attaced excel
+• What form of payment is most common? - credit card ( - Answer in attaced excel)
 • Do our customers shop at work (most likely between 8:00 and 17:00) or at
-home?
+home? (Night based on the pivot, but the difference is minimal between the both,  - Answer in attaced excel)
 
 • Turn in a printout of the pivot tables you used to answer each question.
 Note: To answer number 3, a new column is created in the spreadsheet labeled "Hour of
